@@ -5,7 +5,6 @@ This project uses machine learning to classify concrete images as either having 
 The dataset used for this project can be found at https://data.mendeley.com/datasets/5y9wdsg2zt/2.
 
 
-
 ## Requirements:
 
 Numpy
@@ -20,4 +19,10 @@ Model architecture:
 
 ![model_architecture](https://github.com/nor-azilah/Image-Classification/assets/141215896/d86b034e-b10b-4394-96c9-9fd53311cdb1)
 
+## Contributing
+Contributions are welcome! Feel free to open issues and pull requests.
+
+
 ## License
+This project is licensed under the MIT License.
+
