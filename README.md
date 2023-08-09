@@ -7,11 +7,11 @@ The dataset used for this project can be found at https://data.mendeley.com/data
 
 ## Requirements:
 
-Numpy
-Matplotlib
-opencv-python
-Tensorflow
-Keras
+- Numpy
+- Matplotlib
+- opencv-python
+- Tensorflow
+- Keras
 
 ## Result
 
